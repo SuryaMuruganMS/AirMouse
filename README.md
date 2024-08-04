@@ -50,3 +50,15 @@ The accelerometer mouse is an innovative input device that allows users to contr
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/AirMouse.git
+## Open the airmouse.ino file in the Arduino IDE.
+
+### Upload the code to your microcontroller.
+![Alt text](C:\Users\HP\Downloads\libraries)
+
+## Usage
+### Connect the hardware components as per the circuit diagram.
+![Alt text](C:\Users\HP\Downloads\circuit)
+### Power up the system and move your hand to control the cursor.
+### Code
+## The main code for the AirMouse project can be found in the airmouse.ino file.
+
